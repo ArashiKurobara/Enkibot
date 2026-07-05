@@ -58,25 +58,28 @@ Omega:
   - "!Rapid Fire ignores defense and never misses. However, it also provokes 2 counterattacks per use. (It's 4 counterattacks in Pixel! Watch out!)"
   UNION Monk Ranger:
   - "In Pixel, if you have !Rapid Fire and Kaiser Knuckles equipped on your Monk then you will not only land all of 8 of your punches, but suffer no damage penalty on each of them!"
-  - "The piercing ability of !Rapid Fire combined with the Kaiser Knuckles' large boost to your fists results in hefty amounts of damage, although you will suffer 4 counterattacks and you must give up your Hermes Sandals." 
+  - "The defense-piercing ability of !Rapid Fire combined with the Kaiser Knuckles' large boost to your fists results in hefty amounts of damage, although you will suffer 4 counterattacks and sacrifice Hermes Sandals on the Monk." 
   Dragoon:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   - "Even with !Jump, this will take ages. Consider not doing it."
   Summoner:
   - "Summoners can either hit Omega's weakness with a rod-boosted Ramuh or deal unaspected damage with Odin."
-  - "Since Odin can randomly attempt Zantetsuken in Pixel, Ramuh will deal more, consistent damage if you can Dispel the auto-Shell first. Use a Wonder Wand if you have to."
+  - "Since Odin will randomly attempt Zantetsuken in Pixel, Ramuh will deal more, consistent damage if you can Dispel the auto-Shell first. Use a Wonder Wand if you have to."
   INTERSECTION Knight Red-Mage Gladiator: 
-  - "Anyone who can use a sword can technically damage Omega with the Coral Sword."
+  - "Anyone who can use a sword can technically damage Omega with the Coral Sword. It's very slow and probably shouldn't bother."
+  Dancer:
+  - "Swords Dance never misses, bypassing the 90% physical evasion. This is not a great way to kill Omega without further synergy, but it IS feasible with the Chicken Knife."
   INTERSECTION Dancer Freelancer:
   - "In Pixel, anyone equipped with a Ribbon, Rainbow Dress, or Red Slippers can always hit Omega with physical attacks, bypassing its evasion."
+  - "Therefore, you won't have to fish for Swords Dance if you have a strong physical offensive option on multiple characters.
   UNION Dancer Mystic-Knight:
-  - "This is necessary to ensure your Thundaga !Spellblades hit."
+  - "Thundaga !Spellblade is one such strong physical offensive option. (Well, physical-accuracy-checking at least.)"
   UNION Freelancer Mystic-Knight:
-  - "This is necessary to ensure your Thundaga !Spellblades hit."
+  - "Thundaga !Spellblade is one such strong physical offensive option. (Well, physical-accuracy-checking at least.)"
   UNION Ninja Dancer:
   - "On SNES and GBA, mainhand Chicken Knife + any offhand weapon that does 0 damage (like your starting Knife) lets you Swords Dance without triggering counterattacks."
   UNION Freelancer Geomancer:
-  - "The Rune Chime (rare drop from Baldanders in the chain room earlier in the Void) uses the Song formula for its attacks. (All other instruments do too, but they are too weak to care.) This means it will always hit Omega."
+  - "The Rune Chime (rare drop from Baldanders in the chain room earlier in the Void) uses the Song formula for its attacks. (All other instruments do too, but they are too weak to care.) This means it will always hit."
   Gladiator:
   - "Since there's no character with a Lightning-elemental !Finisher, there's no actually good option for GLD to damage Omega."
   - "GLD's best option is the Trident, 1 point of attack higher than the Coral Sword. This still isn't worth it without !Jump to double its damage, and DRG wouldn't want to do that, so GLD shouldn't either."
