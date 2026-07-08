@@ -6,7 +6,6 @@ Moore:
     - ghidos_cave
   Generic:
   - "There's a second Main Gauche in Moore, if you want it. It's in a barrel behind the pub."
-  - "You'll have to make a choice in the forest between the Aegis Shield and the Flame Shield."
   Blue-Mage:
   - "Air Knives boost wind damage by 50%, making them immediately useful for Blue Mages."
   - "You may want to learn Lilliputian Lyric from Mini Magicians in the Forest, but you'll probably never use it unless you have Berserker and dislike murdering your own party."
@@ -24,6 +23,8 @@ Moore:
   - "The various spells Time Mages can learn here are nice, but the real winner is Hastega."
   Bard:
   - "Bards will be happy to find the seventh piano in Moore's pub."
+  Generic`:
+  - "You'll have to make a choice in the forest between the Aegis Shield and the Flame Shield."
   Shield:
   - "Since you have literally any shield user, you want the Aegis Shield, which is infinitely better."
   - "If you really need a Flame Shield later, you can find another in W3 and !Steal more from Dueling Knights/Grenades."
